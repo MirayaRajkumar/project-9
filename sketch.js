@@ -5,7 +5,6 @@ function setup() {
 
 function draw() 
 {
-  background(30);
   if(keyIsDown(DOWN_ARROW)){
     background("red");
   }
